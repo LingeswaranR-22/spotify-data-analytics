@@ -1,0 +1,18 @@
+# virtual envs
+.venv/
+venv/
+.env
+*.env
+
+# data artifacts
+data/raw/
+data/processed/
+reports/*.pbix
+reports/*.pdf
+
+# python
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
