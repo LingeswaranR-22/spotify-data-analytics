@@ -10,6 +10,16 @@
 End-to-end Spotify Data Analytics project using Python, Spotify Web API, and Power BI. Includes ETL pipeline, data cleaning, feature engineering, and insights on music trends & audio features.
 #data-engineering #data-analytics #spotify #python #ETL
 
+## 📊 Sample Visuals
+
+Here are some sample analytics from the project:
+
+![Distribution of Track Popularity](assets/popularity_distribution.jpg)
+*Distribution of Track Popularity*
+
+![Top Genres by Average Popularity](assets/top_genres.jpg)
+*Top 10 Genres by Average Popularity*
+
 ## ✨ What you get
 - **Python ETL** using Spotipy (Spotify Web API)
 - Cleaned **analytics-ready datasets** (CSV/Parquet)
