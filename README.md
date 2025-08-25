@@ -50,7 +50,7 @@ spotify-data-analytics/
 └─ .github/workflows/
    └─ ci.yml
 ```
-## Business Use Cases
+## 💼 Business Use Cases
 
 - **Music Industry Insights:** Identify audio features (tempo, energy, danceability) contributing to hit songs.  
 - **Artist Growth Tracking:** Analyze listener trends and popularity across regions.  
