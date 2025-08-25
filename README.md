@@ -1,4 +1,11 @@
 # 🎵 Spotify Data Analytics (by Lingeswaran R)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Spotify API](https://img.shields.io/badge/Spotify%20API-Data%20Analytics-green?logo=spotify)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![ETL Pipeline](https://img.shields.io/badge/ETL-Pipeline-orange?logo=apache-airflow)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/LingeswaranR-22/spotify-data-analytics)
+![License](https://img.shields.io/github/license/LingeswaranR-22/spotify-data-analytics)
 
 End-to-end Spotify Data Analytics project using Python, Spotify Web API, and Power BI. Includes ETL pipeline, data cleaning, feature engineering, and insights on music trends & audio features.
 #data-engineering #data-analytics #spotify #python #ETL
