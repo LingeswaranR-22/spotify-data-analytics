@@ -40,7 +40,16 @@ spotify-data-analytics/
 └─ .github/workflows/
    └─ ci.yml
 ```
+## 💼 Business Use Cases
 
+This project demonstrates how data engineering and analytics can provide value in the music and streaming industry:
+
+- **Music Industry Insights**: Identify audio features (tempo, energy, danceability) that contribute to hit songs.  
+- **Artist Growth Tracking**: Analyze listener trends and popularity to monitor artist performance across regions.  
+- **Playlist Optimization**: Streaming platforms can curate playlists based on user listening patterns and genre preferences.  
+- **Market Research**: Record labels can evaluate trends to guide promotions, collaborations, and album releases.  
+- **Recommendation Systems**: Use analytics as a foundation for building smarter music recommendations.
+- 
 ## 🚀 Setup
 
 1) **Create a Spotify app**
