@@ -1,6 +1,7 @@
 # 🎵 Spotify Data Analytics (by Lingeswaran R)
 
-End-to-end mini data engineering + analytics project on Spotify data. It extracts tracks, artists, and audio features from curated playlists, transforms the data, and produces insights you can visualize in Power BI/Looker.
+End-to-end Spotify Data Analytics project using Python, Spotify Web API, and Power BI. Includes ETL pipeline, data cleaning, feature engineering, and insights on music trends & audio features.
+#data-engineering #data-analytics #spotify #python #ETL
 
 ## ✨ What you get
 - **Python ETL** using Spotipy (Spotify Web API)
