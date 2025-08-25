@@ -15,9 +15,11 @@ End-to-end Spotify Data Analytics project using Python, Spotify Web API, and Pow
 Here are some sample analytics from the project:
 
 ![Distribution of Track Popularity](https://github.com/LingeswaranR-22/spotify-data-analytics/blob/main/reports/popularity_distribution.png)
+
 *Distribution of Track Popularity*
 
-![Top Genres by Average Popularity](assets/top_genres.jpg)
+![Top Genres by Average Popularity](https://github.com/LingeswaranR-22/spotify-data-analytics/blob/main/reports/top_genres.png)
+
 *Top 10 Genres by Average Popularity*
 
 ## ✨ What you get
