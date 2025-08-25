@@ -49,7 +49,7 @@ This project demonstrates how data engineering and analytics can provide value i
 - **Playlist Optimization**: Streaming platforms can curate playlists based on user listening patterns and genre preferences.  
 - **Market Research**: Record labels can evaluate trends to guide promotions, collaborations, and album releases.  
 - **Recommendation Systems**: Use analytics as a foundation for building smarter music recommendations.
-- 
+  
 ## 🚀 Setup
 
 1) **Create a Spotify app**
