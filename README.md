@@ -1,4 +1,4 @@
-# 🎵 Spotify Data Analytics (by Lingeswaran R)
+# 🎵 Spotify Data Analytics
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Spotify API](https://img.shields.io/badge/Spotify%20API-Data%20Analytics-green?logo=spotify)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
